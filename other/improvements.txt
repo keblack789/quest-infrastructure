@@ -1,0 +1,11 @@
+- manage VPC in terraform
+- setup AWS WAF and shield with terraform
+- add comments to code
+- add more options for variables
+- add outputs
+- create a tags module to handle tag values for all resources
+- tighten down security groups
+- add ssl between the load balancer and target groups
+- automate creation of docker images and upload to ecr
+- setup route 53 for the site
+- create separate production environment
